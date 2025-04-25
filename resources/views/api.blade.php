@@ -16,7 +16,7 @@
     </script>
 </head>
 
-<body class="bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-gray-300">
+<body class="overflow-hidden h-screenbg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-gray-300">
     <div id="api" class="min-h-dvh flex flex-col"></div>
 </body>
 
